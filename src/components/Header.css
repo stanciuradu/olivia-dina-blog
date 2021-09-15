@@ -1,0 +1,15 @@
+.container .header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aquamarine;
+}
+.container .header img {
+  border-radius: 80%;
+  width: 10rem;
+}
+.container .header h3 {
+  color: rgb(177, 50, 50);
+  font-weight: bold;
+  border: 2px solid pink;
+}

@@ -1,0 +1,13 @@
+.container .footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    padding: 20px;
+    background-color: #8af0f0;
+}
+.container .footer h4{
+    margin-bottom: 0px;
+    margin-top: 1rem;
+    font-family: "Pacifico", cursive;
+    color: rgb(194, 39, 39);
+}
