@@ -4,6 +4,11 @@
   align-items: center;
   background-color: aquamarine;
 }
+@media (max-width: 768px) { 
+  .container .header{
+      flex-direction: column;
+  }
+}
 .container .header img {
   border-radius: 80%;
   width: 10rem;

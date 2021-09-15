@@ -1,10 +1,15 @@
 .container .footer{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
+    justify-content: space-around;
     grid-gap: 20px;
     padding: 20px;
     background-color: #8af0f0;
 }
+@media (max-width: 768px) { 
+    .container .footer{
+        flex-direction: column;
+    }
+ }
 .container .footer h4{
     margin-bottom: 0px;
     margin-top: 1rem;
