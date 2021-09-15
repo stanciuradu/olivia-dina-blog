@@ -63,7 +63,7 @@ function Main() {
           cu adevărat și să fim serioși cu toți avem undeva acolo ascunsă o
           dorință în sufletul nostru, ceva ce ne dorim și visăm să obținem. Nu
           pot să fac decât să vă încurajez să ajungeți "acolo" prin toate
-          mijloacele existente de care dispuneți (legale bineînțeles ☺) și cu
+          mijloacele existente de care dispuneți (legale bineînțeles) și cu
           siguranță veți obține!
         </p>
         <footer>duminică, 7 ianuarie 2018</footer>
